@@ -1,4 +1,4 @@
-# modes of the game
+# modes of the game lol
 
 three (3) main 'modes' of the game:
 - dating sim (HUMAN)
@@ -9,7 +9,7 @@ the cat will be able to play during the night, and as such will only be able to 
 
 
 
-## dating
+## [relationships](./relationships.md)
 
 the player will be able to date a variety of partners in each different area (likely 1 partner per area).
 
@@ -24,7 +24,7 @@ depending how much content there is, it may be nice to have extra collectables g
 
 
 
-## exploration
+## [exploration](./exploration.md)
 
 the exploration will be the sort of 'open world' part of the game. youll be able to interact with characters (vaguely stray-ish) throughout the different areas, mainly on the human-accessible levels (ground level mainly) but potentially areas can be explored after platforming to them.
 
@@ -37,7 +37,7 @@ these will be completely optional, but may improve the player's platforming expe
 
 
 
-## platforming
+## [platforming](./platform.md)
 
 the platforming should be fun (not *too* challenging) and interesting. mainly concerned with collecting items for dating. puzzles could be fun, but it depends on how much we'd like to put in the game. 
 
