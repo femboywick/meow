@@ -15,4 +15,4 @@ only one upgrade can be applied at a time, unless the player has an upgrade to u
 - multiple upgrade slots (name?)
 
 ##### grappling hook
-potentially, we could have it so the grappling hook could only work on certain surfaces, limiting its usecases. this needs to be further thought about, but that will come later.
+potentially, we could have it so the grappling hook could only work on certain surfaces, limiting its usecases. this needs to be further thought about, but that will come later. :3
