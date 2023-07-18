@@ -22,8 +22,9 @@ in the city, all the inhabitants are rich enough to just buy replacements for ev
 because the city wont unlock any other areas, it makes sense to have more dating options and content. so whereas the other areas will probably only have 1 romance option each, the city may have 2 or 3.
 
 
-## megabuilding (apartments)
+## megabuildings (apartments)
 cyberpunk megabuilding esque. thousands of people live in it, a few shops and conviniences on the ground and middle floors.
+there will be multiple megabuildings, with a few shops/company buildings inbetween. the player's character goes to work somewhere there.
 
 #### exploration
 - convenience shop

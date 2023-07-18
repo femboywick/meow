@@ -1,4 +1,4 @@
-# modes of the game lol
+# modes of the game
 
 three (3) main 'modes' of the game:
 - dating sim (HUMAN)

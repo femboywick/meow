@@ -8,5 +8,7 @@
     - [platform](./gameplay/game_modes/platform.md)
   - [upgrade path](./gameplay/upgrades.md)
   - [progression](./gameplay/progression.md)
+    - [starter progression](./gameplay/starter_progression.md)
 - [areas](./areas.md)
 - [general lore](./lore.md)
+- [story idea dump](./story.md)
